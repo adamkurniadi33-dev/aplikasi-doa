@@ -1,0 +1,7 @@
+{
+  "name": "Al-Ma'tsurat & Doa Daily",
+  "description": "A beautiful and intuitive Islamic prayer application that helps you read, listen, and learn daily prayers with audio support and AI-powered guidance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
